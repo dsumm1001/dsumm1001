@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @dsumm1001
-- 👀 I’m interested in robotic path planning and programming using C++ and computer vision/robotic perception using python. 
+- Hello, I’m @dsumm1001 and I am a robotics engineer.
+- I’m primarily interested in robotic path planning and programming using C++ and computer vision/robotic perception using python.
