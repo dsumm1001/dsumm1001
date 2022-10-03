@@ -1,2 +1,2 @@
 - Hello, I’m @dsumm1001 and I am a robotics engineer.
-- I’m primarily interested in robotic path planning and computer vision/robotic perception.
+- I’m primarily interested in medical and assistive robotics but also enjoy applications of computer vision and remote sensing. 
