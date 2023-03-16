@@ -1,2 +1,2 @@
 - Hello, I’m @dsumm1001 and I am a robotics engineer.
-- I’m primarily interested in medical and assistive robotics but also enjoy applications of computer vision and remote sensing. 
+- I’m primarily interested in medical, assistive and rehabilitative robotics but also enjoy applications of computer vision and remote sensing. 
